@@ -1,0 +1,5015 @@
+{
+  "developer": {
+    "name": "Dominex Macedon",
+    "age": 20,
+    "birth_date": "March 21, 2006",
+    "project": "greenServeFE",
+    "project_url": "https://github.com/dominexmacedon-docs/greenServeFE-build",
+    "source_repository": "https://github.com/dominexmacedon-docs/greenServeFE-build",
+    "language": "greenServe",
+    "execution_engine": "greenServe Fast Execution (greenServeFE)",
+    "description": "500 examples covering the greenServeFE lexer, parser, compiler, GSCode bytecode, VM execution, runtime values, environments, control flow, functions, closures, iteration, built-ins, and native module loading.",
+    "examples": [
+      {
+        "id": 1,
+        "type": "number",
+        "code": "print(1);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 2,
+        "type": "number",
+        "code": "print(2);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 3,
+        "type": "number",
+        "code": "print(3);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 4,
+        "type": "number",
+        "code": "print(4);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 5,
+        "type": "number",
+        "code": "print(5);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 6,
+        "type": "number",
+        "code": "print(6);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 7,
+        "type": "number",
+        "code": "print(7);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 8,
+        "type": "number",
+        "code": "print(8);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 9,
+        "type": "number",
+        "code": "print(9);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 10,
+        "type": "number",
+        "code": "print(10);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 11,
+        "type": "number",
+        "code": "print(12);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 12,
+        "type": "number",
+        "code": "print(15);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 13,
+        "type": "number",
+        "code": "print(18);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 14,
+        "type": "number",
+        "code": "print(20);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 15,
+        "type": "number",
+        "code": "print(21);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 16,
+        "type": "number",
+        "code": "print(24);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 17,
+        "type": "number",
+        "code": "print(25);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 18,
+        "type": "number",
+        "code": "print(30);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 19,
+        "type": "number",
+        "code": "print(32);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 20,
+        "type": "number",
+        "code": "print(40);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 21,
+        "type": "number",
+        "code": "print(50);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 22,
+        "type": "number",
+        "code": "print(64);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 23,
+        "type": "number",
+        "code": "print(75);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 24,
+        "type": "number",
+        "code": "print(100);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 25,
+        "type": "number",
+        "code": "print(256);",
+        "explanation": "Loads a numeric literal into the GSCode constant table and passes it to the native print function.",
+        "tag": [
+          "literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 26,
+        "type": "string",
+        "code": "print(\"greenServe\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 27,
+        "type": "string",
+        "code": "print(\"greenServeFE\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 28,
+        "type": "string",
+        "code": "print(\"hello\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 29,
+        "type": "string",
+        "code": "print(\"VM\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 30,
+        "type": "string",
+        "code": "print(\"bytecode\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 31,
+        "type": "string",
+        "code": "print(\"module\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 32,
+        "type": "string",
+        "code": "print(\"array\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 33,
+        "type": "string",
+        "code": "print(\"object\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 34,
+        "type": "string",
+        "code": "print(\"function\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 35,
+        "type": "string",
+        "code": "print(\"loop\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 36,
+        "type": "string",
+        "code": "print(\"compiler\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 37,
+        "type": "string",
+        "code": "print(\"parser\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 38,
+        "type": "string",
+        "code": "print(\"lexer\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 39,
+        "type": "string",
+        "code": "print(\"runtime\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 40,
+        "type": "string",
+        "code": "print(\"native\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 41,
+        "type": "string",
+        "code": "print(\"value\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 42,
+        "type": "string",
+        "code": "print(\"server\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 43,
+        "type": "string",
+        "code": "print(\"data\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 44,
+        "type": "string",
+        "code": "print(\"example\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 45,
+        "type": "string",
+        "code": "print(\"Mandalay\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 46,
+        "type": "string",
+        "code": "print(\"Dominex\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 47,
+        "type": "string",
+        "code": "print(\"Fast Execution\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 48,
+        "type": "string",
+        "code": "print(\"GSCode\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 49,
+        "type": "string",
+        "code": "print(\"instruction\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 50,
+        "type": "string",
+        "code": "print(\"environment\");",
+        "explanation": "Creates a string constant and executes it through LOAD_CONST and the native call path.",
+        "tag": [
+          "string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 51,
+        "type": "arithmetic",
+        "code": "define a = 2;\ndefine b = 1;\nshow(a + b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-addition"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 52,
+        "type": "arithmetic",
+        "code": "define a = 3;\ndefine b = 2;\nshow(a - b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-subtraction"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 53,
+        "type": "arithmetic",
+        "code": "define a = 4;\ndefine b = 3;\nshow(a * b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-multiplication"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 54,
+        "type": "arithmetic",
+        "code": "define a = 5;\ndefine b = 4;\nshow(a / b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-division"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 55,
+        "type": "arithmetic",
+        "code": "define a = 6;\ndefine b = 5;\nshow(a % b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-remainder"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 56,
+        "type": "arithmetic",
+        "code": "define a = 7;\ndefine b = 6;\nshow(a + b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-addition"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 57,
+        "type": "arithmetic",
+        "code": "define a = 8;\ndefine b = 7;\nshow(a - b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-subtraction"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 58,
+        "type": "arithmetic",
+        "code": "define a = 9;\ndefine b = 8;\nshow(a * b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-multiplication"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 59,
+        "type": "arithmetic",
+        "code": "define a = 10;\ndefine b = 9;\nshow(a / b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-division"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 60,
+        "type": "arithmetic",
+        "code": "define a = 11;\ndefine b = 1;\nshow(a % b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-remainder"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 61,
+        "type": "arithmetic",
+        "code": "define a = 12;\ndefine b = 2;\nshow(a + b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-addition"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 62,
+        "type": "arithmetic",
+        "code": "define a = 13;\ndefine b = 3;\nshow(a - b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-subtraction"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 63,
+        "type": "arithmetic",
+        "code": "define a = 14;\ndefine b = 4;\nshow(a * b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-multiplication"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 64,
+        "type": "arithmetic",
+        "code": "define a = 15;\ndefine b = 5;\nshow(a / b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-division"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 65,
+        "type": "arithmetic",
+        "code": "define a = 16;\ndefine b = 6;\nshow(a % b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-remainder"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 66,
+        "type": "arithmetic",
+        "code": "define a = 17;\ndefine b = 7;\nshow(a + b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-addition"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 67,
+        "type": "arithmetic",
+        "code": "define a = 18;\ndefine b = 8;\nshow(a - b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-subtraction"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 68,
+        "type": "arithmetic",
+        "code": "define a = 19;\ndefine b = 9;\nshow(a * b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-multiplication"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 69,
+        "type": "arithmetic",
+        "code": "define a = 20;\ndefine b = 1;\nshow(a / b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-division"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 70,
+        "type": "arithmetic",
+        "code": "define a = 21;\ndefine b = 2;\nshow(a % b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-remainder"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 71,
+        "type": "arithmetic",
+        "code": "define a = 22;\ndefine b = 3;\nshow(a + b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-addition"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 72,
+        "type": "arithmetic",
+        "code": "define a = 23;\ndefine b = 4;\nshow(a - b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-subtraction"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 73,
+        "type": "arithmetic",
+        "code": "define a = 24;\ndefine b = 5;\nshow(a * b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-multiplication"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 74,
+        "type": "arithmetic",
+        "code": "define a = 25;\ndefine b = 6;\nshow(a / b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-division"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 75,
+        "type": "arithmetic",
+        "code": "define a = 26;\ndefine b = 7;\nshow(a % b);",
+        "explanation": "Evaluates a binary arithmetic expression through the compiler and corresponding VM opcode.",
+        "tag": [
+          "arithmetic-remainder"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 76,
+        "type": "comparison",
+        "code": "define a = 0;\ndefine b = 0;\nshow(a == b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-equality"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 77,
+        "type": "comparison",
+        "code": "define a = 1;\ndefine b = 2;\nshow(a != b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-inequality"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 78,
+        "type": "comparison",
+        "code": "define a = 2;\ndefine b = 4;\nshow(a < b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-less-than"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 79,
+        "type": "comparison",
+        "code": "define a = 3;\ndefine b = 6;\nshow(a <= b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-less-than-or-equal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 80,
+        "type": "comparison",
+        "code": "define a = 4;\ndefine b = 8;\nshow(a > b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-greater-than"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 81,
+        "type": "comparison",
+        "code": "define a = 5;\ndefine b = 10;\nshow(a >= b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-greater-than-or-equal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 82,
+        "type": "comparison",
+        "code": "define a = 6;\ndefine b = 1;\nshow(a == b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-equality"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 83,
+        "type": "comparison",
+        "code": "define a = 7;\ndefine b = 3;\nshow(a != b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-inequality"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 84,
+        "type": "comparison",
+        "code": "define a = 8;\ndefine b = 5;\nshow(a < b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-less-than"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 85,
+        "type": "comparison",
+        "code": "define a = 9;\ndefine b = 7;\nshow(a <= b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-less-than-or-equal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 86,
+        "type": "comparison",
+        "code": "define a = 10;\ndefine b = 9;\nshow(a > b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-greater-than"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 87,
+        "type": "comparison",
+        "code": "define a = 0;\ndefine b = 0;\nshow(a >= b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-greater-than-or-equal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 88,
+        "type": "comparison",
+        "code": "define a = 1;\ndefine b = 2;\nshow(a == b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-equality"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 89,
+        "type": "comparison",
+        "code": "define a = 2;\ndefine b = 4;\nshow(a != b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-inequality"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 90,
+        "type": "comparison",
+        "code": "define a = 3;\ndefine b = 6;\nshow(a < b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-less-than"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 91,
+        "type": "comparison",
+        "code": "define a = 4;\ndefine b = 8;\nshow(a <= b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-less-than-or-equal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 92,
+        "type": "comparison",
+        "code": "define a = 5;\ndefine b = 10;\nshow(a > b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-greater-than"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 93,
+        "type": "comparison",
+        "code": "define a = 6;\ndefine b = 1;\nshow(a >= b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-greater-than-or-equal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 94,
+        "type": "comparison",
+        "code": "define a = 7;\ndefine b = 3;\nshow(a == b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-equality"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 95,
+        "type": "comparison",
+        "code": "define a = 8;\ndefine b = 5;\nshow(a != b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-inequality"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 96,
+        "type": "comparison",
+        "code": "define a = 9;\ndefine b = 7;\nshow(a < b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-less-than"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 97,
+        "type": "comparison",
+        "code": "define a = 10;\ndefine b = 9;\nshow(a <= b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-less-than-or-equal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 98,
+        "type": "comparison",
+        "code": "define a = 0;\ndefine b = 0;\nshow(a > b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-greater-than"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 99,
+        "type": "comparison",
+        "code": "define a = 1;\ndefine b = 2;\nshow(a >= b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-greater-than-or-equal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 100,
+        "type": "comparison",
+        "code": "define a = 2;\ndefine b = 4;\nshow(a == b);",
+        "explanation": "Compiles a comparison into a VM comparison operation and produces a boolean.",
+        "tag": [
+          "comparison-equality"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 101,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = true;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 102,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = false;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 103,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = false;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 104,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = true;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 105,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = false;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 106,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = false;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 107,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = true;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 108,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = false;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 109,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = false;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 110,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = true;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 111,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = false;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 112,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = false;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 113,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = true;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 114,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = false;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 115,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = false;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 116,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = true;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 117,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = false;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 118,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = false;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 119,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = true;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 120,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = false;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 121,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = false;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 122,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = true;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 123,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = false;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 124,
+        "type": "logical",
+        "code": "define a = true;\ndefine b = false;\nshow(a || b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 125,
+        "type": "logical",
+        "code": "define a = false;\ndefine b = true;\nshow(a && b);",
+        "explanation": "Evaluates boolean operands using the VM logical operator implementation.",
+        "tag": [
+          "logical-operator"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 126,
+        "type": "unary",
+        "code": "define value = -12;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 127,
+        "type": "unary",
+        "code": "define value = -11;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 128,
+        "type": "unary",
+        "code": "define value = -10;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 129,
+        "type": "unary",
+        "code": "define value = -9;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 130,
+        "type": "unary",
+        "code": "define value = -8;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 131,
+        "type": "unary",
+        "code": "define value = -7;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 132,
+        "type": "unary",
+        "code": "define value = -6;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 133,
+        "type": "unary",
+        "code": "define value = -5;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 134,
+        "type": "unary",
+        "code": "define value = -4;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 135,
+        "type": "unary",
+        "code": "define value = -3;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 136,
+        "type": "unary",
+        "code": "define value = -2;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 137,
+        "type": "unary",
+        "code": "define value = -1;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 138,
+        "type": "unary",
+        "code": "define value = 0;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 139,
+        "type": "unary",
+        "code": "define value = 1;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 140,
+        "type": "unary",
+        "code": "define value = 2;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 141,
+        "type": "unary",
+        "code": "define value = 3;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 142,
+        "type": "unary",
+        "code": "define value = 4;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 143,
+        "type": "unary",
+        "code": "define value = 5;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 144,
+        "type": "unary",
+        "code": "define value = 6;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 145,
+        "type": "unary",
+        "code": "define value = 7;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 146,
+        "type": "unary",
+        "code": "define value = 8;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 147,
+        "type": "unary",
+        "code": "define value = 9;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 148,
+        "type": "unary",
+        "code": "define value = 10;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 149,
+        "type": "unary",
+        "code": "define value = 11;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 150,
+        "type": "unary",
+        "code": "define value = 12;\nshow(-value);",
+        "explanation": "Applies unary negation and emits the VM NEG operation.",
+        "tag": [
+          "unary-negation"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 151,
+        "type": "variable",
+        "code": "define value = 1;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 152,
+        "type": "variable",
+        "code": "define value = 2;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 153,
+        "type": "variable",
+        "code": "define value = 3;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 154,
+        "type": "variable",
+        "code": "define value = 4;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 155,
+        "type": "variable",
+        "code": "define value = 5;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 156,
+        "type": "variable",
+        "code": "define value = 6;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 157,
+        "type": "variable",
+        "code": "define value = 7;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 158,
+        "type": "variable",
+        "code": "define value = 8;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 159,
+        "type": "variable",
+        "code": "define value = 9;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 160,
+        "type": "variable",
+        "code": "define value = 10;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 161,
+        "type": "variable",
+        "code": "define value = 11;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 162,
+        "type": "variable",
+        "code": "define value = 12;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 163,
+        "type": "variable",
+        "code": "define value = 13;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 164,
+        "type": "variable",
+        "code": "define value = 14;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 165,
+        "type": "variable",
+        "code": "define value = 15;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 166,
+        "type": "variable",
+        "code": "define value = 16;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 167,
+        "type": "variable",
+        "code": "define value = 17;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 168,
+        "type": "variable",
+        "code": "define value = 18;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 169,
+        "type": "variable",
+        "code": "define value = 19;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 170,
+        "type": "variable",
+        "code": "define value = 20;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 171,
+        "type": "variable",
+        "code": "define value = 21;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 172,
+        "type": "variable",
+        "code": "define value = 22;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 173,
+        "type": "variable",
+        "code": "define value = 23;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 174,
+        "type": "variable",
+        "code": "define value = 24;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 175,
+        "type": "variable",
+        "code": "define value = 25;\nvalue = value + 1;\nshow(value);",
+        "explanation": "Defines a binding, updates it through assignment, and reads it from the environment.",
+        "tag": [
+          "assignment"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 176,
+        "type": "array",
+        "code": "define values = [0, 1, 2];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 177,
+        "type": "array",
+        "code": "define values = [1, 2, 3];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 178,
+        "type": "array",
+        "code": "define values = [2, 3, 4];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 179,
+        "type": "array",
+        "code": "define values = [3, 4, 5];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 180,
+        "type": "array",
+        "code": "define values = [4, 5, 6];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 181,
+        "type": "array",
+        "code": "define values = [5, 6, 7];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 182,
+        "type": "array",
+        "code": "define values = [6, 7, 8];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 183,
+        "type": "array",
+        "code": "define values = [7, 8, 9];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 184,
+        "type": "array",
+        "code": "define values = [8, 9, 10];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 185,
+        "type": "array",
+        "code": "define values = [9, 10, 11];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 186,
+        "type": "array",
+        "code": "define values = [10, 11, 12];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 187,
+        "type": "array",
+        "code": "define values = [11, 12, 13];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 188,
+        "type": "array",
+        "code": "define values = [12, 13, 14];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 189,
+        "type": "array",
+        "code": "define values = [13, 14, 15];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 190,
+        "type": "array",
+        "code": "define values = [14, 15, 16];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 191,
+        "type": "array",
+        "code": "define values = [15, 16, 17];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 192,
+        "type": "array",
+        "code": "define values = [16, 17, 18];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 193,
+        "type": "array",
+        "code": "define values = [17, 18, 19];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 194,
+        "type": "array",
+        "code": "define values = [18, 19, 20];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 195,
+        "type": "array",
+        "code": "define values = [19, 20, 21];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 196,
+        "type": "array",
+        "code": "define values = [20, 21, 22];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 197,
+        "type": "array",
+        "code": "define values = [21, 22, 23];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 198,
+        "type": "array",
+        "code": "define values = [22, 23, 24];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 199,
+        "type": "array",
+        "code": "define values = [23, 24, 25];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 200,
+        "type": "array",
+        "code": "define values = [24, 25, 26];\nshow(values);",
+        "explanation": "Builds an array with BUILD_ARRAY and stores the resulting runtime value.",
+        "tag": [
+          "array-literal"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 201,
+        "type": "array-index",
+        "code": "define values = [0, 1, 2];\nshow(values[0]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 202,
+        "type": "array-index",
+        "code": "define values = [1, 2, 3];\nshow(values[1]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 203,
+        "type": "array-index",
+        "code": "define values = [2, 3, 4];\nshow(values[2]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 204,
+        "type": "array-index",
+        "code": "define values = [3, 4, 5];\nshow(values[0]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 205,
+        "type": "array-index",
+        "code": "define values = [4, 5, 6];\nshow(values[1]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 206,
+        "type": "array-index",
+        "code": "define values = [5, 6, 7];\nshow(values[2]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 207,
+        "type": "array-index",
+        "code": "define values = [6, 7, 8];\nshow(values[0]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 208,
+        "type": "array-index",
+        "code": "define values = [7, 8, 9];\nshow(values[1]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 209,
+        "type": "array-index",
+        "code": "define values = [8, 9, 10];\nshow(values[2]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 210,
+        "type": "array-index",
+        "code": "define values = [9, 10, 11];\nshow(values[0]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 211,
+        "type": "array-index",
+        "code": "define values = [10, 11, 12];\nshow(values[1]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 212,
+        "type": "array-index",
+        "code": "define values = [11, 12, 13];\nshow(values[2]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 213,
+        "type": "array-index",
+        "code": "define values = [12, 13, 14];\nshow(values[0]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 214,
+        "type": "array-index",
+        "code": "define values = [13, 14, 15];\nshow(values[1]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 215,
+        "type": "array-index",
+        "code": "define values = [14, 15, 16];\nshow(values[2]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 216,
+        "type": "array-index",
+        "code": "define values = [15, 16, 17];\nshow(values[0]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 217,
+        "type": "array-index",
+        "code": "define values = [16, 17, 18];\nshow(values[1]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 218,
+        "type": "array-index",
+        "code": "define values = [17, 18, 19];\nshow(values[2]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 219,
+        "type": "array-index",
+        "code": "define values = [18, 19, 20];\nshow(values[0]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 220,
+        "type": "array-index",
+        "code": "define values = [19, 20, 21];\nshow(values[1]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 221,
+        "type": "array-index",
+        "code": "define values = [20, 21, 22];\nshow(values[2]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 222,
+        "type": "array-index",
+        "code": "define values = [21, 22, 23];\nshow(values[0]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 223,
+        "type": "array-index",
+        "code": "define values = [22, 23, 24];\nshow(values[1]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 224,
+        "type": "array-index",
+        "code": "define values = [23, 24, 25];\nshow(values[2]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 225,
+        "type": "array-index",
+        "code": "define values = [24, 25, 26];\nshow(values[0]);",
+        "explanation": "Reads an array element through GET_INDEX using a numeric index.",
+        "tag": [
+          "array-indexing"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 226,
+        "type": "object",
+        "code": "define item = {name: \"item0\", value: 0};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 227,
+        "type": "object",
+        "code": "define item = {name: \"item1\", value: 1};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 228,
+        "type": "object",
+        "code": "define item = {name: \"item2\", value: 2};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 229,
+        "type": "object",
+        "code": "define item = {name: \"item3\", value: 3};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 230,
+        "type": "object",
+        "code": "define item = {name: \"item4\", value: 4};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 231,
+        "type": "object",
+        "code": "define item = {name: \"item5\", value: 5};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 232,
+        "type": "object",
+        "code": "define item = {name: \"item6\", value: 6};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 233,
+        "type": "object",
+        "code": "define item = {name: \"item7\", value: 7};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 234,
+        "type": "object",
+        "code": "define item = {name: \"item8\", value: 8};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 235,
+        "type": "object",
+        "code": "define item = {name: \"item9\", value: 9};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 236,
+        "type": "object",
+        "code": "define item = {name: \"item10\", value: 10};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 237,
+        "type": "object",
+        "code": "define item = {name: \"item11\", value: 11};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 238,
+        "type": "object",
+        "code": "define item = {name: \"item12\", value: 12};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 239,
+        "type": "object",
+        "code": "define item = {name: \"item13\", value: 13};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 240,
+        "type": "object",
+        "code": "define item = {name: \"item14\", value: 14};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 241,
+        "type": "object",
+        "code": "define item = {name: \"item15\", value: 15};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 242,
+        "type": "object",
+        "code": "define item = {name: \"item16\", value: 16};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 243,
+        "type": "object",
+        "code": "define item = {name: \"item17\", value: 17};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 244,
+        "type": "object",
+        "code": "define item = {name: \"item18\", value: 18};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 245,
+        "type": "object",
+        "code": "define item = {name: \"item19\", value: 19};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 246,
+        "type": "object",
+        "code": "define item = {name: \"item20\", value: 20};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 247,
+        "type": "object",
+        "code": "define item = {name: \"item21\", value: 21};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 248,
+        "type": "object",
+        "code": "define item = {name: \"item22\", value: 22};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 249,
+        "type": "object",
+        "code": "define item = {name: \"item23\", value: 23};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 250,
+        "type": "object",
+        "code": "define item = {name: \"item24\", value: 24};\nshow(item.value);",
+        "explanation": "Builds an object with BUILD_OBJECT and reads a property with GET_MEMBER.",
+        "tag": [
+          "object-member"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 251,
+        "type": "if",
+        "code": "define value = 0;\nif (value < 1) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 252,
+        "type": "if",
+        "code": "define value = 1;\nif (value < 2) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 253,
+        "type": "if",
+        "code": "define value = 2;\nif (value < 3) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 254,
+        "type": "if",
+        "code": "define value = 3;\nif (value < 4) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 255,
+        "type": "if",
+        "code": "define value = 4;\nif (value < 5) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 256,
+        "type": "if",
+        "code": "define value = 5;\nif (value < 6) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 257,
+        "type": "if",
+        "code": "define value = 6;\nif (value < 7) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 258,
+        "type": "if",
+        "code": "define value = 7;\nif (value < 8) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 259,
+        "type": "if",
+        "code": "define value = 8;\nif (value < 1) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 260,
+        "type": "if",
+        "code": "define value = 9;\nif (value < 2) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 261,
+        "type": "if",
+        "code": "define value = 10;\nif (value < 3) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 262,
+        "type": "if",
+        "code": "define value = 11;\nif (value < 4) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 263,
+        "type": "if",
+        "code": "define value = 12;\nif (value < 5) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 264,
+        "type": "if",
+        "code": "define value = 13;\nif (value < 6) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 265,
+        "type": "if",
+        "code": "define value = 14;\nif (value < 7) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 266,
+        "type": "if",
+        "code": "define value = 15;\nif (value < 8) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 267,
+        "type": "if",
+        "code": "define value = 16;\nif (value < 1) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 268,
+        "type": "if",
+        "code": "define value = 17;\nif (value < 2) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 269,
+        "type": "if",
+        "code": "define value = 18;\nif (value < 3) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 270,
+        "type": "if",
+        "code": "define value = 19;\nif (value < 4) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 271,
+        "type": "if",
+        "code": "define value = 20;\nif (value < 5) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 272,
+        "type": "if",
+        "code": "define value = 21;\nif (value < 6) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 273,
+        "type": "if",
+        "code": "define value = 22;\nif (value < 7) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 274,
+        "type": "if",
+        "code": "define value = 23;\nif (value < 8) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 275,
+        "type": "if",
+        "code": "define value = 24;\nif (value < 1) {\n    print(\"small\");\n} else {\n    print(\"large\");\n}",
+        "explanation": "Compiles a conditional using JUMP_IF_FALSE and a patched jump around the else branch.",
+        "tag": [
+          "if-else"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 276,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 2) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 277,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 3) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 278,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 4) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 279,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 5) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 280,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 6) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 281,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 7) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 282,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 8) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 283,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 9) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 284,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 2) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 285,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 3) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 286,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 4) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 287,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 5) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 288,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 6) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 289,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 7) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 290,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 8) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 291,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 9) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 292,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 2) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 293,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 3) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 294,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 4) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 295,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 5) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 296,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 6) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 297,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 7) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 298,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 8) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 299,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 9) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 300,
+        "type": "while",
+        "code": "define count = 0;\nwhile (count < 2) {\n    count = count + 1;\n}\nshow(count);",
+        "explanation": "Uses a loop condition, conditional jump, backward JUMP, and environment assignment.",
+        "tag": [
+          "while-loop"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 301,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 2]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 302,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 3]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 303,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 4]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 304,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 5]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 305,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 6]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 306,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 7]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 307,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 2]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 308,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 3]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 309,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 4]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 310,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 5]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 311,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 6]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 312,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 7]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 313,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 2]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 314,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 3]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 315,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 4]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 316,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 5]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 317,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 6]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 318,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 7]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 319,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 2]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 320,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 3]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 321,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 4]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 322,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 5]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 323,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 6]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 324,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 7]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 325,
+        "type": "for",
+        "code": "define total = 0;\nfor (value in [1, 2, 2]) {\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Creates an iterator and uses ITER_NEXT to bind each array element during for/in execution.",
+        "tag": [
+          "for-in-array"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 326,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(1, 2));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 327,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(2, 3));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 328,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(3, 4));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 329,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(4, 5));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 330,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(5, 6));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 331,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(6, 7));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 332,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(7, 8));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 333,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(8, 9));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 334,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(9, 10));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 335,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(10, 11));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 336,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(11, 12));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 337,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(12, 13));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 338,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(13, 14));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 339,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(14, 15));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 340,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(15, 16));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 341,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(16, 17));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 342,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(17, 18));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 343,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(18, 19));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 344,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(19, 20));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 345,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(20, 21));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 346,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(21, 22));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 347,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(22, 23));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 348,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(23, 24));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 349,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(24, 25));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 350,
+        "type": "function",
+        "code": "func add(a, b) {\n    return a + b;\n}\nshow(add(25, 26));",
+        "explanation": "Compiles a named child GSCode function, binds parameters in a call environment, and returns a value.",
+        "tag": [
+          "function-call"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 351,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(1);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 352,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(2);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 353,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(3);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 354,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(4);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 355,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(5);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 356,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(6);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 357,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(7);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 358,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(8);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 359,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(9);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 360,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(10);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 361,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(11);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 362,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(12);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 363,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(13);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 364,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(14);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 365,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(15);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 366,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(16);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 367,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(17);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 368,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(18);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 369,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(19);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 370,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(20);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 371,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(21);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 372,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(22);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 373,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(23);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 374,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(24);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 375,
+        "type": "closure",
+        "code": "func make_adder(base) {\n    func inner(value) {\n        return base + value;\n    }\n    return inner;\n}\ndefine add_value = make_adder(25);\nshow(add_value(5));",
+        "explanation": "Demonstrates nested functions capturing the lexical environment stored in their function value.",
+        "tag": [
+          "closure"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 376,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(0));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 377,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(1));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 378,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(2));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 379,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(3));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 380,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(4));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 381,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(5));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 382,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(6));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 383,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(7));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 384,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(0));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 385,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(1));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 386,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(2));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 387,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(3));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 388,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(4));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 389,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(5));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 390,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(6));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 391,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(7));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 392,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(0));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 393,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(1));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 394,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(2));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 395,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(3));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 396,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(4));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 397,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(5));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 398,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(6));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 399,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(7));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 400,
+        "type": "recursion",
+        "code": "func count_down(n) {\n    if (n <= 0) {\n        return 0;\n    }\n    return count_down(n - 1);\n}\nshow(count_down(0));",
+        "explanation": "Exercises recursive CALL operations, parameter environments, frames, and RETURN propagation.",
+        "tag": [
+          "recursion"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 401,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 2) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 402,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 3) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 403,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 4) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 404,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 5) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 405,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 6) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 406,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 7) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 407,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 2) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 408,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 3) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 409,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 4) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 410,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 5) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 411,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 6) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 412,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 7) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 413,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 2) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 414,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 3) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 415,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 4) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 416,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 5) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 417,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 6) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 418,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 7) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 419,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 2) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 420,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 3) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 421,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 4) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 422,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 5) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 423,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 6) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 424,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 7) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 425,
+        "type": "break",
+        "code": "define count = 0;\nwhile (count < 10) {\n    count = count + 1;\n    if (count == 2) {\n        break;\n    }\n}\nshow(count);",
+        "explanation": "Compiles break into a jump whose target is patched to the loop end.",
+        "tag": [
+          "break"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 426,
+        "type": "built-in",
+        "code": "define value = 10;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 427,
+        "type": "built-in",
+        "code": "define value = 11;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 428,
+        "type": "built-in",
+        "code": "define value = 12;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 429,
+        "type": "built-in",
+        "code": "define value = 13;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 430,
+        "type": "built-in",
+        "code": "define value = 14;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 431,
+        "type": "built-in",
+        "code": "define value = 15;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 432,
+        "type": "built-in",
+        "code": "define value = 16;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 433,
+        "type": "built-in",
+        "code": "define value = 17;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 434,
+        "type": "built-in",
+        "code": "define value = 18;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 435,
+        "type": "built-in",
+        "code": "define value = 19;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 436,
+        "type": "built-in",
+        "code": "define value = 20;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 437,
+        "type": "built-in",
+        "code": "define value = 21;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 438,
+        "type": "built-in",
+        "code": "define value = 22;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 439,
+        "type": "built-in",
+        "code": "define value = 23;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 440,
+        "type": "built-in",
+        "code": "define value = 24;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 441,
+        "type": "built-in",
+        "code": "define value = 25;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 442,
+        "type": "built-in",
+        "code": "define value = 26;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 443,
+        "type": "built-in",
+        "code": "define value = 27;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 444,
+        "type": "built-in",
+        "code": "define value = 28;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 445,
+        "type": "built-in",
+        "code": "define value = 29;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 446,
+        "type": "built-in",
+        "code": "define value = 30;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 447,
+        "type": "built-in",
+        "code": "define value = 31;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 448,
+        "type": "built-in",
+        "code": "define value = 32;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 449,
+        "type": "built-in",
+        "code": "define value = 33;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 450,
+        "type": "built-in",
+        "code": "define value = 34;\nshow(len([value, value + 1]));\nshow(str(value));\nshow(num(str(value)));\nshow(type(value));",
+        "explanation": "Exercises the installed len, str, num, and type native functions.",
+        "tag": [
+          "built-ins"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 451,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"vm\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 452,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"code\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 453,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"data\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 454,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"loop\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 455,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"greenServe\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 456,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"vm\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 457,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"code\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 458,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"data\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 459,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"loop\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 460,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"greenServe\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 461,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"vm\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 462,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"code\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 463,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"data\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 464,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"loop\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 465,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"greenServe\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 466,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"vm\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 467,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"code\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 468,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"data\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 469,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"loop\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 470,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"greenServe\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 471,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"vm\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 472,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"code\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 473,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"data\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 474,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"loop\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 475,
+        "type": "string-iteration",
+        "code": "define result = \"\";\nfor (ch in \"greenServe\") {\n    result = result + ch;\n}\nshow(result);",
+        "explanation": "Iterates over a string one character at a time through the VM iterator implementation.",
+        "tag": [
+          "for-in-string"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 476,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 0) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 477,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 1) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 478,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 2) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 479,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 3) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 480,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 4) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 481,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 0) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 482,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 1) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 483,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 2) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 484,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 3) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 485,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 4) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 486,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 0) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 487,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 1) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 488,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 2) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 489,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 3) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 490,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 4) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 491,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 0) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 492,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 1) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 493,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 2) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 494,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 3) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 495,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 4) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 496,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 0) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 497,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 1) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 498,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 2) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 499,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 3) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 500,
+        "type": "continue",
+        "code": "define total = 0;\nfor (value in [0, 1, 2, 3, 4]) {\n    if (value == 4) {\n        continue;\n    }\n    total = total + value;\n}\nshow(total);",
+        "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
+        "tag": [
+          "continue"
+        ],
+        "developer": "Dominex Macedon"
+      }
+    ]
+  }
+}
