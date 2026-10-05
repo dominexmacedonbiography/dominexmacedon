@@ -8,7 +8,7 @@
     "source_repository": "https://github.com/dominexmacedon-docs/greenServeFE-build",
     "language": "greenServe",
     "execution_engine": "greenServe Fast Execution (greenServeFE)",
-    "description": "500 examples covering the greenServeFE lexer, parser, compiler, GSCode bytecode, VM execution, runtime values, environments, control flow, functions, closures, iteration, built-ins, and native module loading.",
+    "description": "800 examples covering the greenServeFE lexer, parser, compiler, GSCode bytecode, VM execution, runtime values, environments, control flow, functions, closures, iteration, built-ins, native module loading, and server development.",
     "examples": [
       {
         "id": 1,
@@ -5007,6 +5007,3006 @@
         "explanation": "Compiles continue as a jump back to the active loop start while preserving the loop's iterator.",
         "tag": [
           "continue"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 501,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"GET /\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 502,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/home\", func(req, res) {\n    res.send(\"GET /home\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 503,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/about\", func(req, res) {\n    res.send(\"GET /about\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 504,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/health\", func(req, res) {\n    res.send(\"GET /health\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 505,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/status\", func(req, res) {\n    res.send(\"GET /status\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 506,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/api\", func(req, res) {\n    res.send(\"GET /api\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 507,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/users\", func(req, res) {\n    res.send(\"GET /users\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 508,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/products\", func(req, res) {\n    res.send(\"GET /products\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 509,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/books\", func(req, res) {\n    res.send(\"GET /books\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 510,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/docs\", func(req, res) {\n    res.send(\"GET /docs\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 511,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/ping\", func(req, res) {\n    res.send(\"GET /ping\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 512,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/hello\", func(req, res) {\n    res.send(\"GET /hello\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 513,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/version\", func(req, res) {\n    res.send(\"GET /version\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 514,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/time\", func(req, res) {\n    res.send(\"GET /time\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 515,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/search\", func(req, res) {\n    res.send(\"GET /search\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 516,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/login\", func(req, res) {\n    res.send(\"GET /login\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 517,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/profile\", func(req, res) {\n    res.send(\"GET /profile\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 518,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/settings\", func(req, res) {\n    res.send(\"GET /settings\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 519,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/contact\", func(req, res) {\n    res.send(\"GET /contact\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 520,
+        "type": "server-get-route",
+        "code": "import server;\nserver.get(\"/dashboard\", func(req, res) {\n    res.send(\"GET /dashboard\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a GET route in the native server module and starts the HTTP server.",
+        "tag": [
+          "server-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 521,
+        "type": "server-post-route",
+        "code": "import server;\nserver.post(\"/users\", func(req, res) {\n    res.send(\"POST /users\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a POST route and invokes the matching server router method.",
+        "tag": [
+          "server-post"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 522,
+        "type": "server-post-route",
+        "code": "import server;\nserver.post(\"/login\", func(req, res) {\n    res.send(\"POST /login\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a POST route and invokes the matching server router method.",
+        "tag": [
+          "server-post"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 523,
+        "type": "server-post-route",
+        "code": "import server;\nserver.post(\"/orders\", func(req, res) {\n    res.send(\"POST /orders\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a POST route and invokes the matching server router method.",
+        "tag": [
+          "server-post"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 524,
+        "type": "server-post-route",
+        "code": "import server;\nserver.post(\"/messages\", func(req, res) {\n    res.send(\"POST /messages\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a POST route and invokes the matching server router method.",
+        "tag": [
+          "server-post"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 525,
+        "type": "server-post-route",
+        "code": "import server;\nserver.post(\"/comments\", func(req, res) {\n    res.send(\"POST /comments\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a POST route and invokes the matching server router method.",
+        "tag": [
+          "server-post"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 526,
+        "type": "server-put-route",
+        "code": "import server;\nserver.put(\"/users/:id\", func(req, res) {\n    res.send(\"PUT /users/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PUT route and invokes the matching server router method.",
+        "tag": [
+          "server-put"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 527,
+        "type": "server-put-route",
+        "code": "import server;\nserver.put(\"/products/:id\", func(req, res) {\n    res.send(\"PUT /products/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PUT route and invokes the matching server router method.",
+        "tag": [
+          "server-put"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 528,
+        "type": "server-put-route",
+        "code": "import server;\nserver.put(\"/orders/:id\", func(req, res) {\n    res.send(\"PUT /orders/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PUT route and invokes the matching server router method.",
+        "tag": [
+          "server-put"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 529,
+        "type": "server-put-route",
+        "code": "import server;\nserver.put(\"/profile\", func(req, res) {\n    res.send(\"PUT /profile\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PUT route and invokes the matching server router method.",
+        "tag": [
+          "server-put"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 530,
+        "type": "server-put-route",
+        "code": "import server;\nserver.put(\"/settings\", func(req, res) {\n    res.send(\"PUT /settings\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PUT route and invokes the matching server router method.",
+        "tag": [
+          "server-put"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 531,
+        "type": "server-patch-route",
+        "code": "import server;\nserver.patch(\"/users/:id\", func(req, res) {\n    res.send(\"PATCH /users/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PATCH route and invokes the matching server router method.",
+        "tag": [
+          "server-patch"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 532,
+        "type": "server-patch-route",
+        "code": "import server;\nserver.patch(\"/products/:id\", func(req, res) {\n    res.send(\"PATCH /products/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PATCH route and invokes the matching server router method.",
+        "tag": [
+          "server-patch"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 533,
+        "type": "server-patch-route",
+        "code": "import server;\nserver.patch(\"/orders/:id\", func(req, res) {\n    res.send(\"PATCH /orders/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PATCH route and invokes the matching server router method.",
+        "tag": [
+          "server-patch"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 534,
+        "type": "server-patch-route",
+        "code": "import server;\nserver.patch(\"/profile\", func(req, res) {\n    res.send(\"PATCH /profile\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PATCH route and invokes the matching server router method.",
+        "tag": [
+          "server-patch"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 535,
+        "type": "server-patch-route",
+        "code": "import server;\nserver.patch(\"/settings\", func(req, res) {\n    res.send(\"PATCH /settings\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a PATCH route and invokes the matching server router method.",
+        "tag": [
+          "server-patch"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 536,
+        "type": "server-delete-route",
+        "code": "import server;\nserver.delete(\"/users/:id\", func(req, res) {\n    res.send(\"DELETE /users/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a DELETE route and invokes the matching server router method.",
+        "tag": [
+          "server-delete"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 537,
+        "type": "server-delete-route",
+        "code": "import server;\nserver.delete(\"/products/:id\", func(req, res) {\n    res.send(\"DELETE /products/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a DELETE route and invokes the matching server router method.",
+        "tag": [
+          "server-delete"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 538,
+        "type": "server-delete-route",
+        "code": "import server;\nserver.delete(\"/orders/:id\", func(req, res) {\n    res.send(\"DELETE /orders/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a DELETE route and invokes the matching server router method.",
+        "tag": [
+          "server-delete"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 539,
+        "type": "server-delete-route",
+        "code": "import server;\nserver.delete(\"/comments/:id\", func(req, res) {\n    res.send(\"DELETE /comments/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a DELETE route and invokes the matching server router method.",
+        "tag": [
+          "server-delete"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 540,
+        "type": "server-delete-route",
+        "code": "import server;\nserver.delete(\"/sessions/:id\", func(req, res) {\n    res.send(\"DELETE /sessions/:id\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a DELETE route and invokes the matching server router method.",
+        "tag": [
+          "server-delete"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 541,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/inspect\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 542,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/method\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 543,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/route\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 544,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/request\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 545,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/debug\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 546,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/trace\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 547,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/info\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 548,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/request-method\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 549,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/request-path\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 550,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/request-data\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 551,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/incoming\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 552,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/endpoint\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 553,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/router\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 554,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/server-info\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 555,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/connection\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 556,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/resource\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 557,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/api/info\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 558,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/api/debug\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 559,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/api/request\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 560,
+        "type": "request-inspection",
+        "code": "import server;\nserver.get(\"/api/route\", func(req, res) {\n    res.json({ method: req.method, path: req.path });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads request method and path from the request object and returns them as JSON.",
+        "tag": [
+          "request-method-path"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 561,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/users/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 562,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/products/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 563,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/books/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 564,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/orders/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 565,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/posts/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 566,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/comments/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 567,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/customers/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 568,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/files/:name\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 569,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/teams/:team\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 570,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/articles/:slug\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 571,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/users/:id/profile\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 572,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/products/:id/reviews\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 573,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/orders/:id/items\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 574,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/books/:id/chapters\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 575,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/posts/:id/comments\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 576,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/api/users/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 577,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/api/products/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 578,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/api/orders/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 579,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/api/books/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 580,
+        "type": "path-parameter",
+        "code": "import server;\nserver.get(\"/api/posts/:id\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a colon-prefixed route parameter and reads its value from req.params.",
+        "tag": [
+          "route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 581,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/users/:userId/posts/:postId\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 582,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/teams/:teamId/users/:userId\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 583,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/shops/:shopId/products/:productId\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 584,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/orders/:orderId/items/:itemId\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 585,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/books/:bookId/pages/:pageId\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 586,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/companies/:companyId/departments/:departmentId\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 587,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/courses/:courseId/lessons/:lessonId\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 588,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/projects/:projectId/tasks/:taskId\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 589,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/forums/:forumId/topics/:topicId\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 590,
+        "type": "multiple-path-parameters",
+        "code": "import server;\nserver.get(\"/countries/:country/cities/:city\", func(req, res) {\n    res.json(req.params);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Captures multiple named path parameters and returns the parameter object.",
+        "tag": [
+          "multiple-route-params"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 591,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/files/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 592,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/docs/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 593,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/static/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 594,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/assets/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 595,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/images/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 596,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/api/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 597,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/download/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 598,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/pages/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 599,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/search/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 600,
+        "type": "wildcard-route",
+        "code": "import server;\nserver.get(\"/anything/*\", func(req, res) {\n    res.send(req.params.wildcard);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Uses a wildcard route and reads the unmatched path from req.params.wildcard.",
+        "tag": [
+          "wildcard"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 601,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/search\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 602,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/users\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 603,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/products\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 604,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/books\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 605,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/orders\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 606,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/filter\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 607,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/sort\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 608,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/page\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 609,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/lookup\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 610,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/catalog\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 611,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/reports\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 612,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/analytics\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 613,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/feed\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 614,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/news\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 615,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/messages\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 616,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/customers\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 617,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/inventory\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 618,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/events\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 619,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/posts\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 620,
+        "type": "query-parameters",
+        "code": "import server;\nserver.get(\"/comments\", func(req, res) {\n    res.json(req.query);\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads parsed query parameters from req.query and returns them to the client.",
+        "tag": [
+          "query"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 621,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/request/all\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 622,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/request/data\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 623,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/api/request\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 624,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/debug/request\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 625,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/inspect/request\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 626,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/request/headers\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 627,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/request/query\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 628,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/request/body\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 629,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/request/params\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 630,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/request/summary\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 631,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/api/debug\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 632,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/api/inspect\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 633,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/api/context\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 634,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/api/incoming\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 635,
+        "type": "request-object",
+        "code": "import server;\nserver.get(\"/api/details\", func(req, res) {\n    res.json({ method: req.method, path: req.path, queryString: req.queryString, query: req.query, headers: req.headers, params: req.params, body: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Exposes the documented request fields through a JSON response.",
+        "tag": [
+          "request-object"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 636,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/users\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 637,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/login\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 638,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/register\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 639,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/orders\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 640,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/checkout\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 641,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/messages\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 642,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/comments\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 643,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/feedback\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 644,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/contact\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 645,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/upload\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 646,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/api/users\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 647,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/api/orders\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 648,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/api/products\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 649,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/api/login\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 650,
+        "type": "post-body",
+        "code": "import server;\nserver.post(\"/api/search\", func(req, res) {\n    res.json({ received: req.body });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Reads the request body on a POST route and returns the received value as JSON.",
+        "tag": [
+          "request-body"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 651,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/200\", func(req, res) {\n    res.status(200);\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 652,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/201\", func(req, res) {\n    res.status(201);\n    res.send(\"created\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 653,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/202\", func(req, res) {\n    res.status(202);\n    res.send(\"accepted\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 654,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/204\", func(req, res) {\n    res.status(204);\n    res.send(\"no content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 655,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/400\", func(req, res) {\n    res.status(400);\n    res.send(\"bad request\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 656,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/401\", func(req, res) {\n    res.status(401);\n    res.send(\"unauthorized\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 657,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/403\", func(req, res) {\n    res.status(403);\n    res.send(\"forbidden\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 658,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/404\", func(req, res) {\n    res.status(404);\n    res.send(\"not found\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 659,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/409\", func(req, res) {\n    res.status(409);\n    res.send(\"conflict\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 660,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/422\", func(req, res) {\n    res.status(422);\n    res.send(\"unprocessable\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 661,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/429\", func(req, res) {\n    res.status(429);\n    res.send(\"rate limited\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 662,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/500\", func(req, res) {\n    res.status(500);\n    res.send(\"server error\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 663,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/501\", func(req, res) {\n    res.status(501);\n    res.send(\"not implemented\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 664,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/502\", func(req, res) {\n    res.status(502);\n    res.send(\"bad gateway\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 665,
+        "type": "response-status",
+        "code": "import server;\nserver.get(\"/status/503\", func(req, res) {\n    res.status(503);\n    res.send(\"unavailable\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets an explicit HTTP response status before sending the response body.",
+        "tag": [
+          "response-status"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 666,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/0\", func(req, res) {\n    res.set(\"X-App\", \"1\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 667,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/1\", func(req, res) {\n    res.set(\"X-Request-ID\", \"2\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 668,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/2\", func(req, res) {\n    res.set(\"X-Version\", \"3\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 669,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/3\", func(req, res) {\n    res.set(\"X-Service\", \"4\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 670,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/4\", func(req, res) {\n    res.set(\"X-Environment\", \"5\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 671,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/5\", func(req, res) {\n    res.set(\"X-Cache\", \"6\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 672,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/6\", func(req, res) {\n    res.set(\"X-Trace\", \"7\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 673,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/7\", func(req, res) {\n    res.set(\"X-Region\", \"8\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 674,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/8\", func(req, res) {\n    res.set(\"X-Feature\", \"9\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 675,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/9\", func(req, res) {\n    res.set(\"X-API-Version\", \"10\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 676,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/10\", func(req, res) {\n    res.set(\"X-Server\", \"11\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 677,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/11\", func(req, res) {\n    res.set(\"X-Resource\", \"12\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 678,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/12\", func(req, res) {\n    res.set(\"X-Mode\", \"13\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 679,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/13\", func(req, res) {\n    res.set(\"X-Client\", \"14\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 680,
+        "type": "response-header",
+        "code": "import server;\nserver.get(\"/headers/14\", func(req, res) {\n    res.set(\"X-Route\", \"15\");\n    res.send(\"header set\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Adds a custom response header through the response set method.",
+        "tag": [
+          "response-header"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 681,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/json\", func(req, res) {\n    res.type(\"application/json\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 682,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/html\", func(req, res) {\n    res.type(\"text/html\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 683,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/text\", func(req, res) {\n    res.type(\"text/plain\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 684,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/xml\", func(req, res) {\n    res.type(\"application/xml\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 685,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/css\", func(req, res) {\n    res.type(\"text/css\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 686,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/javascript\", func(req, res) {\n    res.type(\"application/javascript\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 687,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/csv\", func(req, res) {\n    res.type(\"text/csv\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 688,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/svg\", func(req, res) {\n    res.type(\"image/svg+xml\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 689,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/form\", func(req, res) {\n    res.type(\"application/x-www-form-urlencoded\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 690,
+        "type": "response-content-type",
+        "code": "import server;\nserver.get(\"/type/custom\", func(req, res) {\n    res.type(\"application/vnd.greenserve\");\n    res.send(\"content\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Sets the response content type explicitly with the server response API.",
+        "tag": [
+          "response-type"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 691,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/user\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 692,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/product\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 693,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/order\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 694,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/book\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 695,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/status\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 696,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/profile\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 697,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/config\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 698,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/health\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 699,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/result\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 700,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/json/data\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 701,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/api/user\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 702,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/api/product\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 703,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/api/order\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 704,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/api/book\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 705,
+        "type": "json-response",
+        "code": "import server;\nserver.get(\"/api/health\", func(req, res) {\n    res.json({ name: \"greenServe\", path: req.path, ok: true });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Builds a native object response and serializes it with res.json.",
+        "tag": [
+          "json-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 706,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/html\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 707,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/home\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 708,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/about\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 709,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/profile\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 710,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/dashboard\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 711,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/welcome\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 712,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/docs\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 713,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/status-page\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 714,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/products-page\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 715,
+        "type": "html-response",
+        "code": "import server;\nserver.get(\"/books-page\", func(req, res) {\n    res.html(\"<html><body><h1>greenServeFE</h1></body></html>\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Returns an HTML document using the server's HTML response helper.",
+        "tag": [
+          "html-response"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 716,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/old\", func(req, res) {\n    res.redirect(\"/new-0\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 717,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/legacy\", func(req, res) {\n    res.redirect(\"/new-1\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 718,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/home-old\", func(req, res) {\n    res.redirect(\"/new-2\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 719,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/docs-old\", func(req, res) {\n    res.redirect(\"/new-3\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 720,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/login-old\", func(req, res) {\n    res.redirect(\"/new-4\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 721,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/shop-old\", func(req, res) {\n    res.redirect(\"/new-5\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 722,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/api-old\", func(req, res) {\n    res.redirect(\"/new-6\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 723,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/start\", func(req, res) {\n    res.redirect(\"/new-7\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 724,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/previous\", func(req, res) {\n    res.redirect(\"/new-8\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 725,
+        "type": "redirect",
+        "code": "import server;\nserver.get(\"/moved\", func(req, res) {\n    res.redirect(\"/new-9\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Redirects a request to another path using the native response redirect method.",
+        "tag": [
+          "redirect"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 726,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/file\", func(req, res) {\n    res.sendFile(\"./files/file0.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 727,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/download\", func(req, res) {\n    res.sendFile(\"./files/file1.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 728,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/report\", func(req, res) {\n    res.sendFile(\"./files/file2.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 729,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/manual\", func(req, res) {\n    res.sendFile(\"./files/file3.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 730,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/image\", func(req, res) {\n    res.sendFile(\"./files/file4.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 731,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/asset\", func(req, res) {\n    res.sendFile(\"./files/file5.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 732,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/document\", func(req, res) {\n    res.sendFile(\"./files/file6.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 733,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/archive\", func(req, res) {\n    res.sendFile(\"./files/file7.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 734,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/index-file\", func(req, res) {\n    res.sendFile(\"./files/file8.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 735,
+        "type": "send-file",
+        "code": "import server;\nserver.get(\"/data-file\", func(req, res) {\n    res.sendFile(\"./files/file9.txt\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Serves a local file through the response sendFile helper.",
+        "tag": [
+          "send-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 736,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/template\", func(req, res) {\n    res.render(\"./templates/page0.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 737,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/welcome\", func(req, res) {\n    res.render(\"./templates/page1.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 738,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/profile\", func(req, res) {\n    res.render(\"./templates/page2.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 739,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/product\", func(req, res) {\n    res.render(\"./templates/page3.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 740,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/book\", func(req, res) {\n    res.render(\"./templates/page4.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 741,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/order\", func(req, res) {\n    res.render(\"./templates/page5.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 742,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/invoice\", func(req, res) {\n    res.render(\"./templates/page6.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 743,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/dashboard\", func(req, res) {\n    res.render(\"./templates/page7.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 744,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/email\", func(req, res) {\n    res.render(\"./templates/page8.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 745,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/report\", func(req, res) {\n    res.render(\"./templates/page9.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 746,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/page\", func(req, res) {\n    res.render(\"./templates/page10.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 747,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/account\", func(req, res) {\n    res.render(\"./templates/page11.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 748,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/catalog\", func(req, res) {\n    res.render(\"./templates/page12.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 749,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/search\", func(req, res) {\n    res.render(\"./templates/page13.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 750,
+        "type": "template-render",
+        "code": "import server;\nserver.get(\"/result\", func(req, res) {\n    res.render(\"./templates/page14.html\", { title: \"greenServeFE\", value: \"server\" });\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Renders a template using the server's simple {{key}} replacement mechanism.",
+        "tag": [
+          "render"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 751,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 0\");\n});\nserver.serve(\".\", 8080, { index: \"index.html\", static: true });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 752,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 1\");\n});\nserver.serve(\".\", 8081, { index: \"home.html\", static: true, cors: true });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 753,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 2\");\n});\nserver.serve(\".\", 8082, { static: true, cors: true });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 754,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 3\");\n});\nserver.serve(\".\", 8083, { host: \"0.0.0.0\", backlog: 128 });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 755,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 4\");\n});\nserver.serve(\".\", 8084, { host: \"127.0.0.1\", backlog: 64 });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 756,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 5\");\n});\nserver.serve(\".\", 8085, { index: \"index.html\", static: false });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 757,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 6\");\n});\nserver.serve(\".\", 8086, { cors: true, max_requests: 100 });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 758,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 7\");\n});\nserver.serve(\".\", 8087, { max_requests: 1000 });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 759,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 8\");\n});\nserver.serve(\".\", 8088, { notFound: \"/404.html\", static: true });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 760,
+        "type": "server-options",
+        "code": "import server;\nserver.get(\"/\", func(req, res) {\n    res.send(\"server 9\");\n});\nserver.serve(\".\", 8089, { protocol: \"https\", cert: \"server.crt\", key: \"server.key\" });",
+        "explanation": "Starts the server with a documented serve configuration option set.",
+        "tag": [
+          "serve-options"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 761,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/\", log_request);\nserver.get(\"/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 762,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/api\", log_request);\nserver.get(\"/api/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 763,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/admin\", log_request);\nserver.get(\"/admin/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 764,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/users\", log_request);\nserver.get(\"/users/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 765,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/products\", log_request);\nserver.get(\"/products/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 766,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/orders\", log_request);\nserver.get(\"/orders/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 767,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/v1\", log_request);\nserver.get(\"/v1/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 768,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/v2\", log_request);\nserver.get(\"/v2/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 769,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/internal\", log_request);\nserver.get(\"/internal/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 770,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/public\", log_request);\nserver.get(\"/public/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 771,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/service\", log_request);\nserver.get(\"/service/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 772,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/debug\", log_request);\nserver.get(\"/debug/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 773,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/metrics\", log_request);\nserver.get(\"/metrics/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 774,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/auth\", log_request);\nserver.get(\"/auth/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 775,
+        "type": "middleware",
+        "code": "import server;\nfunc log_request(req, res) {\n    print(req.method);\n}\nserver.use(\"/files\", log_request);\nserver.get(\"/files/health\", func(req, res) {\n    res.send(\"ok\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Registers a middleware callback for a route prefix through server.use.",
+        "tag": [
+          "middleware"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 776,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/one\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/one\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 777,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/two\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/two\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 778,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/three\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/three\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 779,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/users\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/users\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 780,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/products\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/products\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 781,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/orders\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/orders\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 782,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/books\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/books\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 783,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/posts\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/posts\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 784,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/comments\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/comments\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 785,
+        "type": "route-management",
+        "code": "import server;\nserver.get(\"/health\", func(req, res) {\n    res.send(\"before clear\");\n});\nserver.clear_routes();\nserver.get(\"/health\", func(req, res) {\n    res.send(\"after clear\");\n});\nserver.serve(\".\", 8080);",
+        "explanation": "Clears registered routes and then installs a new route using clear_routes.",
+        "tag": [
+          "clear-routes"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 786,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.http_get(\"http://example.com/\");\nprint(response);",
+        "explanation": "Calls the native http_get HTTP client function and stores its returned value.",
+        "tag": [
+          "http-client"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 787,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.https_get(\"https://example.com/\");\nprint(response);",
+        "explanation": "Calls the native https_get HTTP client function and stores its returned value.",
+        "tag": [
+          "http-client"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 788,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.http_post(\"http://example.com/\", { value: 3 });\nprint(response);",
+        "explanation": "Calls the native http_post HTTP client function and stores its returned value.",
+        "tag": [
+          "http-client"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 789,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.http_put(\"http://example.com/\", { value: 4 });\nprint(response);",
+        "explanation": "Calls the native http_put HTTP client function and stores its returned value.",
+        "tag": [
+          "http-client"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 790,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.http_patch(\"http://example.com/\", { value: 5 });\nprint(response);",
+        "explanation": "Calls the native http_patch HTTP client function and stores its returned value.",
+        "tag": [
+          "http-client"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 791,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.http_delete(\"http://example.com/\", { value: 6 });\nprint(response);",
+        "explanation": "Calls the native http_delete HTTP client function and stores its returned value.",
+        "tag": [
+          "http-client"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 792,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.http_options(\"http://example.com/\");\nprint(response);",
+        "explanation": "Calls the native http_options HTTP client function and stores its returned value.",
+        "tag": [
+          "http-client"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 793,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.http_get(\"https://example.com/api/status\");\nprint(response);",
+        "explanation": "Performs a GET request from the server module to a remote API endpoint.",
+        "tag": [
+          "http-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 794,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.https_get(\"https://example.com/api/data\");\nprint(response);",
+        "explanation": "Performs an HTTPS GET request through the native server module.",
+        "tag": [
+          "https-get"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 795,
+        "type": "http-client",
+        "code": "import server;\ndefine response = server.http_post(\"http://example.com/api/data\", { name: \"greenServe\" });\nprint(response);",
+        "explanation": "Sends a JSON-compatible object with the native HTTP POST client.",
+        "tag": [
+          "http-post"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 796,
+        "type": "server-file-read",
+        "code": "import server;\ndefine content = server.read_file(\"./data.txt\");\nprint(content);",
+        "explanation": "Reads a local text file through the server module file helper.",
+        "tag": [
+          "read-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 797,
+        "type": "server-file-write",
+        "code": "import server;\ndefine result = server.write_file(\"./data.txt\", \"greenServe\");\nprint(result);",
+        "explanation": "Writes content to a local file through the server module file helper.",
+        "tag": [
+          "write-file"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 798,
+        "type": "server-render",
+        "code": "import server;\ndefine html = server.render(\"./templates/index.html\", { title: \"greenServeFE\" });\nprint(html);",
+        "explanation": "Renders a template directly through the server module utility function.",
+        "tag": [
+          "render-utility"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 799,
+        "type": "url-encode",
+        "code": "import server;\ndefine value = server.url_encode(\"greenServe FE server\");\nprint(value);",
+        "explanation": "URL-encodes a string with the native server utility.",
+        "tag": [
+          "url-encode"
+        ],
+        "developer": "Dominex Macedon"
+      },
+      {
+        "id": 800,
+        "type": "json-escape",
+        "code": "import server;\ndefine value = server.json_escape(\"greenServe server\");\nprint(value);",
+        "explanation": "Escapes a string for safe JSON construction using the server utility.",
+        "tag": [
+          "json-escape"
         ],
         "developer": "Dominex Macedon"
       }
